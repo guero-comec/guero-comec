@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋, Meu nome é Ruggeiro
 
 <!--
 **guero-comec/guero-comec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Skills: PYTHON / DJANGO / JS / HTML / CSS
+
+- 🔭 I’m currently working on this page. 
+
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guero-comec)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=guero-comec&show_icons=true)  
+
