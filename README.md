@@ -24,3 +24,4 @@ Skills: PYTHON / DJANGO / JS / HTML / CSS
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guero-comec&show_icons=true)  
 
+(https://github.com/guero-comec/guero-comec/blob/main/01.jpg)
