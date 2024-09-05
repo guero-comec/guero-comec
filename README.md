@@ -1,5 +1,23 @@
 ### Hi there 👋, Meu nome é Ruggeiro
 
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=guero-comec&bg_color=000000" alt="GitHub Activity Graph" />
+</div>
+
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=guero-comec&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<div align="center">  
+  <a href="https://www.instagram.com/guero-comec/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%236A0DAD?style=for-the-badge&logo=instagram&logoColor=white">
+  </a>
+</div>
+ 
+
+
+
 <!--
 **guero-comec/guero-comec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
