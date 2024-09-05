@@ -38,3 +38,4 @@ Here are some ideas to get you started:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guero-comec&langs_count=20)
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=guero-comec)](https://github.com/anuraghazra/github-readme-stats)
