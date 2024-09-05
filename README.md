@@ -10,7 +10,7 @@
 </p>
 
 <div align="center">  
-  <a href="https://www.instagram.com/guero-comec/" target="_blank">
+  <a href="https://www.instagram.com/rogerio.arle/" target="_blank">
     <img src="https://img.shields.io/badge/-Instagram-%236A0DAD?style=for-the-badge&logo=instagram&logoColor=white">
   </a>
 </div>
