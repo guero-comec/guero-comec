@@ -35,7 +35,7 @@ Here are some ideas to get you started:
 
 Skills: PYTHON / DJANGO / JS / HTML / CSS
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guero-comec&langs_count=8)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guero-comec&langs_count=20)
 
 ![Guero's GitHub stats](https://github-readme-stats.vercel.app/api?username=guero-comec&show_icons=true&theme=transparent)
 
