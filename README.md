@@ -40,5 +40,6 @@ Skills: PYTHON / DJANGO / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=guero-comec)](https://github.com/anuraghazra/github-readme-stats)
 
+![Guero's GitHub stats](https://github-readme-stats.vercel.app/api?username=guero-comec&show_icons=true&theme=transparent)
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=guero-comec&show_icons=true)  
 
